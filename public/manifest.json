@@ -1,0 +1,23 @@
+{
+  "theme_color" : "#f69435",
+  "background_color" : "#f69435",
+  "display" : "standalone",
+  "scope" : "/",
+  "start_url" : "/",
+  "name" : "Landing Page",
+  "short_name" : "PWA App",
+  "description" : "App Created First Time",
+
+
+
+    "icons": [
+      {
+        "src": "/dow192X192.png",
+        "sizes": "144x144",
+        "type": "image/png",
+        "purpose": "maskable"
+      }
+
+  
+    ]
+  }
